@@ -66,7 +66,7 @@ The goal of this project was to:
 ## Architecture
 
 <p align="center">
-  <img width="1000" alt="Architecture Diagram" src="images/Architecture_Diagram.png" />
+  <img width="1000" alt="Architecture Diagram" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Architecture%20Diagram.png" />
 </p>
 
 > [!NOTE]
