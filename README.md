@@ -144,7 +144,7 @@ Configuration included:
 * Persistent data handling
 
 <p align="center">
-  <img width="1000" alt="Redis Configuration" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Configuration.png" />
+  <img width="650" alt="Redis Configuration" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Configuration.png" />
 </p>
 
 ---
