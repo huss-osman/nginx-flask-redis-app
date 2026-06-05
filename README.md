@@ -15,7 +15,7 @@
 
 This project brings together containerisation, reverse proxying, service communication, load balancing, and multi-container workflows.
 
-The objective is to deploy a scalable Flask application using Docker, NGINX, and Redis across connected container services securely.
+The objective is to deploy a scalable Flask application using Docker, NGINX, and Redis across connected container services efficiently.
 
 By completing this project, the setup simulates how modern containerised applications are orchestrated across infrastructure environments.
 
