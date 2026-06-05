@@ -6,7 +6,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 <p align="center">
-  <img width="1000" alt="Architecture Diagram" src="images/Architecture_Diagram.png" />
+  <img width="1000" alt="Architecture Diagram" src="images/App_Preview.png" />
 </p>
 
 ---
