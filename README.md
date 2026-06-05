@@ -125,7 +125,7 @@ Features included:
 * Docker container support
 
 <p align="center">
-  <img width="1000" alt="Flask Application" src="images/Flask_Application_Code.png" />
+  <img width="1000" alt="Flask Application" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Flask_Application_Code.png" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ Configuration included:
 * Persistent data handling
 
 <p align="center">
-  <img width="1000" alt="Redis Configuration" src="images/Redis_Configuration.png" />
+  <img width="1000" alt="Redis Configuration" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Configuration.png" />
 </p>
 
 ---
@@ -165,7 +165,7 @@ This ensured:
 * Visit counts persisted after shutdowns
 
 <p align="center">
-  <img width="1000" alt="Redis Volumes" src="images/Redis_Persistence.png" />
+  <img width="1000" alt="Redis Volumes" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Persistence.png" />
 </p>
 
 > [!IMPORTANT]
@@ -192,7 +192,7 @@ This improved:
 * Production-readiness
 
 <p align="center">
-  <img width="1000" alt="Environment Variables" src="images/Environment_Variables.png" />
+  <img width="1000" alt="Environment Variables" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Environment_Variables.png" />
 </p>
 
 ---
