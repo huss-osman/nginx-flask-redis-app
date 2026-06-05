@@ -13,7 +13,7 @@
 
 ## Overview
 
-This project brings together containerisation, reverse proxying, service communication, load balancing, and networking.
+This project brings together containerisation, reverse proxying, service communication, load balancing, and workflows.
 
 The objective is to deploy a scalable Flask application using Docker, NGINX, and Redis across container services.
 
