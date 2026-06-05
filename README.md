@@ -205,7 +205,7 @@ Responsibilities included:
 * Providing a single public entry point
 
 <p align="center">
-  <img width="1000" alt="NGINX Reverse Proxy" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/NGINX_Load_Balancing.png" />
+  <img width="550" alt="NGINX Reverse Proxy" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/NGINX_Load_Balancing.png" />
 </p>
 
 ---
