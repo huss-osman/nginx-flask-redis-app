@@ -27,18 +27,15 @@ nginx-flask-redis-app/
 ├── app/
 │   ├── main.py
 │   ├── requirements.txt
-│   └── templates/
-│       ├── index.html
-│       ├── count.html
-│       └── about.html
-│
-├── images/
-│   ├── Architecture_Diagram.png
-│   ├── App_Preview.png
-│   ├── Docker_Compose_Build.png
-│   ├── Redis_Persistence.png
-│   ├── NGINX_Load_Balancing.png
-│   └── Environment_Variables.png
+│   │
+│   └── static/
+│       └── images/
+│           ├── Environment_Variables.png
+│           ├── Flask_Application_Code.png
+│           ├── NGINX_Load_Balancing.png
+│           ├── Redis_Configuration.png
+│           ├── Redis_Persistence.png
+│           └── trackerio-logo.png
 │
 ├── nginx/
 │   └── nginx.conf
