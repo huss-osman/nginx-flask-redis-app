@@ -165,7 +165,7 @@ This ensured:
 * Visit counts persisted after shutdowns
 
 <p align="center">
-  <img width="1000" alt="Redis Volumes" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Persistence.png" />
+  <img width="1000" alt="Redis Volumes" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Persistence_strg.png" />
 </p>
 
 > [!IMPORTANT]
