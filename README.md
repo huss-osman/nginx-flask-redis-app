@@ -144,7 +144,7 @@ Configuration included:
 * Persistent data handling
 
 <p align="center">
-  <img width="650" alt="Redis Configuration" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Configuration.png" />
+  <img width="550" alt="Redis Configuration" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Configuration.png" />
 </p>
 
 ---
@@ -165,7 +165,7 @@ This ensured:
 * Visit counts persisted after shutdowns
 
 <p align="center">
-  <img width="650" alt="Redis Volumes" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Persistence_strg.png" />
+  <img width="550" alt="Redis Volumes" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Redis_Persistence_strg.png" />
 </p>
 
 > [!IMPORTANT]
