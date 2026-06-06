@@ -127,7 +127,7 @@ Features included:
 * Flask routing
 * Redis integration
 * Visit counter functionality
-* HTML template rendering
+* Dynamic page rendering
 * Docker container support
 
 <p align="center">
