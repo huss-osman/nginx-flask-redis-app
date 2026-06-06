@@ -66,8 +66,16 @@ The goal of this project was to:
 
 ## Architecture
 
+Requests flow through the stack like this:
+
+```bash
+User → Nginx → Flask → Redis
+```
+
+Nginx acts as a reverse proxy, receiving incoming requests and forwarding them to the Flask app. Flask handles the routing and business logic, and reads from or writes to Redis when it needs to store or retrieve the visit count. Redis persists the count using a named Docker volume, so the data survives container restarts.
+
 <p align="center">
-  <img width="1000" alt="Architecture Diagram" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Architecture%20Diagram.png" />
+  <img width="700" alt="Flask Application" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/Architecture%20Diagram.png" />
 </p>
 
 > [!NOTE]
@@ -246,7 +254,7 @@ Features successfully implemented:
 * Container scaling
 
 <p align="center">
-  <img width="1000" alt="Application Preview" src="images/App_Preview.png" />
+<img width="1920" alt="NGINX_Flask_Redis_Demo" src="https://github.com/user-attachments/assets/52f25479-7f78-4163-9140-7ba2771c42e9" />
 </p>
 
 ---
