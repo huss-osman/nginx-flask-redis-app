@@ -28,14 +28,15 @@ nginx-flask-redis-app/
 ├── app/
 │   ├── main.py
 │   ├── requirements.txt
-│   │
 │   └── static/
 │       └── images/
+│           ├── Architecture_Diagram.png
+│           ├── App_Preview.png
 │           ├── Environment_Variables.png
 │           ├── Flask_Application_Code.png
 │           ├── NGINX_Load_Balancing.png
 │           ├── Redis_Configuration.png
-│           ├── Redis_Persistence.png
+│           ├── Redis_Persistence_strg.png
 │           └── trackerio-logo.png
 │
 ├── nginx/
