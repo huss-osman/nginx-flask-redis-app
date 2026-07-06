@@ -9,11 +9,9 @@
   <img width="1000" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b1c1a3e8-2d8c-46c9-b2bf-12e184b820c6" />
 </p>
 
-This project brings together containerisation, reverse proxying, service communication, load balancing, and workflows.
+This project is a production-style containerised application built from scratch using Docker, NGINX, Flask, and Redis. It runs inside a Docker Compose environment where multiple containers communicate over an internal network, with NGINX routing traffic to Flask application containers and Redis providing persistent data storage.
 
-The objective is to deploy a scalable Flask application using Docker, NGINX, and Redis across container services.
-
-By completing this project, the setup simulates how modern containerised applications are orchestrated at scale.
+The goal was to learn how modern applications are deployed and orchestrated end-to-end, covering containerisation, reverse proxying, service communication, Docker networking, load balancing, persistent storage, and multi-container workflows.
 
 ---
 
