@@ -6,7 +6,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 <p align="center">
-  <img width="1000" alt="Architecture Diagram" src="https://github.com/huss-osman/nginx-flask-redis-app/blob/main/app/static/images/NGINX%20Flask%20Redis%20App%20Architecture.gif" />
+  <img width="1000" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b1c1a3e8-2d8c-46c9-b2bf-12e184b820c6" />
 </p>
 
 ---
