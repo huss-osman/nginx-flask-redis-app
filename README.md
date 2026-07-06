@@ -9,10 +9,6 @@
   <img width="1000" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b1c1a3e8-2d8c-46c9-b2bf-12e184b820c6" />
 </p>
 
----
-
-## Overview
-
 This project brings together containerisation, reverse proxying, service communication, load balancing, and workflows.
 
 The objective is to deploy a scalable Flask application using Docker, NGINX, and Redis across container services.
